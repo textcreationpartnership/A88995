@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of a letter addressed to the Father Rector at Brussels, found amongst some Iesuites taken at London, about the third yeere of His Majesties raigne. Wherein is manifested, that the Iesuites from time to time have been the only incendiaries and contrivers of the miseries and distractions of this kingdome. And how their designes are, by a perpetuall motion, carried on by the same counsels at this time, as formerly they have been.</title>
+            <author>Maynard, John, Sir, 1592-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88995</idno>
+            <idno type="STC">Wing M1454</idno>
+            <idno type="STC">Thomason E105_4</idno>
+            <idno type="STC">ESTC R22087</idno>
+            <idno type="EEBO-CITATION">99871579</idno>
+            <idno type="PROQUEST">99871579</idno>
+            <idno type="VID">155953</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88995)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155953)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E105[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of a letter addressed to the Father Rector at Brussels, found amongst some Iesuites taken at London, about the third yeere of His Majesties raigne. Wherein is manifested, that the Iesuites from time to time have been the only incendiaries and contrivers of the miseries and distractions of this kingdome. And how their designes are, by a perpetuall motion, carried on by the same counsels at this time, as formerly they have been.</title>
+                  <author>Maynard, John, Sir, 1592-1658.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ralph Rounthwait,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: J. M. [i.e. Sir John Maynard].</note>
+                  <note>Annotation on Thomason copy:  "June 5th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesuits --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155953:1" rendition="simple:additions"/>
+            <p>The Copy of A LETTER ADDRESSED To the Father Rector at Bruſſels, found amongſt ſome Ieſuites taken at <hi>London,</hi> about the third yeere of His MAjESTIES Raigne.</p>
+            <p>Wherein is manifeſted, that the Ieſuites from time to time have been the only Incendiaries and contrivers of the miſeries and diſtractions of this Kingdome.</p>
+            <p>And how their deſignes are, by a perpetuall motion, carried on by the ſame Counſels at this time, as formerly they have been.</p>
+            <p>
+               <add>June 5<hi rend="sup">th</hi>
+               </add> 
+               <hi>LONDON,</hi> Printed for <hi>Ralph Rounthwait,</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:155953:2"/>
+            <pb n="1" facs="tcp:155953:2"/>
+            <head>A Copy of a Letter which was found amongſt ſome Jeſuits that were taken lately at <hi>London,</hi> and addreſſed to the Father Rector at <hi>Bruſſels.</hi>
+            </head>
+            <head type="sub">Shewing there is a perpetuall miſchievous motion of the Jeſuits for <hi>Englands</hi> ruine.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">F</seg>Ather Rector,</salute>
+            </opener>
+            <p>let not the dump of aſtoniſh<g ref="char:EOLhyphen"/>ment ſeize upon your moſt ardent and zealous ſoul in apprehending this ſudden and unexpected calling of a Parliament, we have not oppoſed but rather furthered it, ſo that we hope as much in this Parlia<g ref="char:EOLhyphen"/>ment, as ever we feared any in Qu. <hi>Eliza<g ref="char:EOLhyphen"/>beths</hi> daies; You muſt know the Councel is engaged to aſſiſt the King by way of Prerogative, in caſe the Parliamentary way ſhould faile; you ſhall ſee this Parliament will reſemble the Pelican which takes pleaſure to digge out with her owne beake, her owne bowels. The election of the Knights and Burgeſſes have been in ſuch confuſion and ſuch apparent fractions (that which we were wont to procure here<g ref="char:EOLhyphen"/>tofore with much art and induſtry when the Spaniſh match was in Treaty) that it now works out naturally, as a botch or boyle, and ſpits and ſpewes out its owne rancour and venome; you may remember how that famous &amp; immortall Stat<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſman the Count <hi>Gondamore</hi> led King <hi>James</hi>'s fancy, and rocked him aſleepe with the ſoft and ſweet ſound of peace, to keepe up the Spaniſh Treaty; likewiſe we were much bound to ſome
+<pb n="2" facs="tcp:155953:3"/>
+imminent Stateſmen of our owne Country to regaine time in procuring thoſe advantaging ceſſations of Armes in the Par<g ref="char:EOLhyphen"/>liament, and in admiring the worth and honour of the Spa<g ref="char:EOLhyphen"/>niſh Nation, vilifying the Hollanders, remonſtrating to King <hi>James</hi> the State was moſt ungratefull both to his Predeceſſor Qu. <hi>Elizabeth,</hi> and his ſacred Majeſtie; That the States were more obnoxious then the Turke, and perpetually injured his Majeſties loving Subjects in the Eaſt-Indies; And likewiſe they had uſurped from His Majeſty the regality of the nar<g ref="char:EOLhyphen"/>row Seas, in fiſhing upon the Engliſh coaſt. Had the Spaniſh match taken effect, (that which was broken by the heat and violence of our furious enemy the Duke of <hi>Buckingham,</hi>) cer<g ref="char:EOLhyphen"/>tainely King <hi>James</hi> had deſerted the Hollanders. Theſe great Stateſmen had but one meanes to further their great and good deſignes which was to ſeize on King <hi>Iames,</hi> that none but the Puritan faction which plotted nothing but Anarchy and his confuſion, were averſe to this moſt happy union. We ſteered on the ſame courſe, and have made great uſe of this Anarchi<g ref="char:EOLhyphen"/>call election and have prejudicated and anticipated the great one, that none but the Kings enemies and his are choſen of the Parliament, and that the Parliament vowes to begin where they left, and will never give over untill they have extirpated him and his poſterity. On the other ſide the ſame parties are to be admired for their indefatigable induſtry, inceſſantly ſome out revenge, and jealouſie in moſt of the Parliament-men, and eſpecially they worke upon the pride and vaine-glory of ſuch who have been impriſoned, acknowledging that they are the onely Martyrs and Worthies of their Coun<g ref="char:EOLhyphen"/>try. <hi>London</hi> is as much diſtempered as ever <hi>Florence</hi> vvas, for the Companies are at odds, and the Common-councell have oppoſed the Magiſtrates, againſt their old cuſtomes in the electi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n of Knights, which hath bred a great heart-burning in the City, that twice we can divulge vvhat we liſt in <hi>Pauls,</hi> and upon the Exchange, and vve have already rendered our
+<pb n="3" facs="tcp:155953:3"/>
+irrecoverable enemy the Duke of <hi>Buckingham</hi> as odious as a Toade, ſo that the people are apt to beleeve any thing againſt him; vve hope to be revenged of that ball of Wildfire the Duke, and ſhortly to quench his fury; you ſhall ſee the ſame Sword that hath vvounded us, drawn upon the vvound vvith an Oyle that vve anointed, it ſhall make us vvhole, and this ſhall be done, The Parliament as a great ſhip hath daſhed twice againſt the ſame Rocke, and vve have ſo vvrought up<g ref="char:EOLhyphen"/>on the ſeverall complexions of Parliament men in charging the moſt temperate and vviſer ſort; that the beſt vvay to over<g ref="char:EOLhyphen"/>throw the Duke is by humble Petition to his Majeſtie, vvith the violent ſort vve have taken a contrary courſe by vvorking upon their paſſions, and inebriating their fancies vvith pro<g ref="char:EOLhyphen"/>babilities and precedents that vvere never heard of, that Fa<g ref="char:EOLhyphen"/>vourites have not been Parliament proofe; they may vvreſtle for a time, but at laſt the Parliament hath overthrowne them upon their backs. We doe encourage them vvith all the vvit vve have to fall upon the Duke, and perſwade them, now is the time or never, the King being in ſuch apparent neceſſity, inſomuch as vve aſſure our ſelves God hath forſaken and in<g ref="char:EOLhyphen"/>fatuated them, that they ſhall not onely ſtrike and daſh upon the rocke againe, but ſplit and vvracke in the bottomleſſe Sea of diſtraction: vve have now many ſtrings to our bow, and have ſtrongly fortified our faction and have added two bul<g ref="char:EOLhyphen"/>warkes more: for vvhen K. <hi>Iames</hi> lived, you know he was very vehement againſt Arminianiſm, &amp; interrupted vvith his peſti<g ref="char:EOLhyphen"/>lent wit, and deep learning, our ſtrong deſignes in <hi>Holland,</hi> and was a great friend to that old rebel &amp; heretick the P. of <hi>Orange.</hi> Now we have planted that ſoveraigne drug <hi>Arminianiſme,</hi> which we hope will purge the Proteſtants from their Hereſie, and that flouriſheth and bears fruits in due ſeaſon; The ma<g ref="char:EOLhyphen"/>terials which builds upon other Bulwarks are the Projectors and Beggerers of all ranks and qualities whatſoever; both theſe factions cooperate to deſtroy the Parliament, and intro<g ref="char:EOLhyphen"/>duce
+<pb n="4" facs="tcp:155953:4"/>
+a new ſpecies and form of government which is elegant. Theſe factions ſerve as direct Medicines and Inſtruments to our end, which is the univerſall Catholique Monarchie; our foundation is mutation, this mutation will cauſe a relaxation, and many violent diſeaſes in the body, as the Stone, Gout, &amp;c. And to the ſpeedy diſtraction or perpetuall and inſufferable anguiſh of the body, which is worſe then death it ſelfe, we proceed with Counſell and mature deliberation when and how to worke upon the Dukes jealouſie and revenge, and in this we give the honour to thoſe which merit it, which are the Church Catholiques.</p>
+            <p>There is another matter of conſequence, which wee take much in our conſideration and tender care, which is, The Puritans, that they hang not upon the Dukes ears; they are impudent ſubtill people, and that is to be feared, leſt they ſhould negotiate a reconciliation between the Duke and the Parliament; that is certain, the Duke would gladly have re<g ref="char:EOLhyphen"/>conciled himſelfe at the Parliament at <hi>Oxford</hi> and <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter:</hi> But now we aſſure our ſelves we have handled the mat<g ref="char:EOLhyphen"/>ter, that both Duke &amp; Parliament are irreconcileable. For the better preventing of the Proteſtants, the Arminians have al<g ref="char:EOLhyphen"/>ready blocked up the Dukes ears, and we have thoſe of our Religion which ſtand continually Sentinels at the Dukes Chamber to ſee who goes in and out: we cannot be too care<g ref="char:EOLhyphen"/>full and circumſpect in this regard. I cannot chuſe but laugh to ſee how ſome of our coat have accoutered themſelves; you would ſcarce know them if you ſaw them, and that is ad<g ref="char:EOLhyphen"/>mirable, how in ſpeech and geſture they act the Puritans. The Cambridge Schollers, to their wofull experience, ſhall ſee we can act the Puritans a little better then they can act the Ieſuites: They abuſed our Patron, Saint <hi>Ignatius,</hi> in jeſt, but we will make them ſmart for it in earneſt. I hope you will excuſe my digreſſion, for I confeſſe unto you, I am at this inſtant tranſported with joy to ſee how happily all in<g ref="char:EOLhyphen"/>ſtruments
+<pb n="5" facs="tcp:155953:4"/>
+and means, as well great as leſſe, cooperate to our purpoſe.</p>
+            <p>But to return to the main fabrick, our foundation is <hi>Armi<g ref="char:EOLhyphen"/>nianiſme:</hi> The Arminians and Projectors, as it appeareth in the Premiſſes affect mutation; this wee ſecond and enforce by all probable Arguments we can: In the firſt place we take into our conſideration the Kings honour and preſent neceſſi<g ref="char:EOLhyphen"/>ty, and we ſhew how the King may free himſelfe of his ward<g ref="char:EOLhyphen"/>ſhip, as <hi>Lewis</hi> the eleventh did, and for his greater ſplendor and luſtre, he may raiſe a vaſt revenue, and not be behold<g ref="char:EOLhyphen"/>ing to his Subjects, which is by way of impoſition and exciſe; we inſtance in the Low Countries, and ſhew what a maſſe of Money they raiſed to pay the Armies by Sea and Land, meer<g ref="char:EOLhyphen"/>ly out of exciſe. Then our Church Catholikes proceed to ſhew the means how to ſettle this exciſe, which muſt be by a mercenary Army of Horſe and Foot; for the Horſe we have made it ſure they ſhall be Forraigners and Germans, who will eat up the Kings revenues and ſpoile the Countrey whereſo<g ref="char:EOLhyphen"/>ever they come, though they ſhould be well paid; what ha<g ref="char:EOLhyphen"/>vocke will they then make when they get no pay, for when they are not duly paid, ſurely they will doe much more in miſchiefe then we of the Catholike Armie will doe. We are provident and carefull that this mercenary Armie of 2000. Horſe and 20000. Foot ſhall bee taken out and in pay before the Exciſe be ſetled, inforcing the Exciſe. The Countrey is moſt ready to riſe; if the mercenary Armie ſubjugate the Countrey, then the Souldiers and Projectors ſhall be paid out of the Confiſcations: If the Countrey bee too hard for the Souldiers, then they muſt conſequently mutinie, which is equally advantagious to us.</p>
+            <p>Our ſuperlative deſigne is, to worke the Proteſtants as well as the Catholikes to welcome in the Conquerour; that is, by this meanes we hope inſtantly to diſſolve Trade, and hinder the building of the Shipping, in propounding probable de<g ref="char:EOLhyphen"/>ſignes,
+<pb n="6" facs="tcp:155953:5"/>
+and put the State upon Expeditions, as that of Coals, in taking away the Merchants Ships, and feeding them with hopes to take the Weſt-India Fleet, which is to ſeek a nee<g ref="char:EOLhyphen"/>dle in a bottle of Hay. His Catholike Majeſtie ſhall not want our beſt intelligence; beſides he hath <hi>Piſtacheos</hi> and <hi>Caravils,</hi> which are ſtill abroad to diſcover, ſo you cannot be ſurpriſed in any Harbour. When Trade is ruined, and Shipping de<g ref="char:EOLhyphen"/>cayed, what will become of Exciſe? What will become of Nobles and Gentlemens Revenues? the Yeomen and Far<g ref="char:EOLhyphen"/>mers, in which conſiſteth the glory of the Infanterie of this Kingdom, they will turn Rogues, and reſemble the Peaſants in <hi>France,</hi> who are little better then ſlaves. Trade and Ship<g ref="char:EOLhyphen"/>ping is alſo much decayed abroad, that <hi>London</hi> is at it were beſieged for want of fuell, for Sea-coale are at three pound a Chaldron. When things are brought to this perfection, which we hope will be by that time his ſacred Majeſty hath ſetled his affairs in <hi>Germany,</hi> all the people in generall will long for a conqueſt, miſſing their means and revenues which ſhould maintaine and ſupport them according to their ſeve<g ref="char:EOLhyphen"/>rall ranks and qualities. Then we aſſure our ſelves that the Lands which were rent and torne from the Church by that ruinous monſter <hi>Henry</hi> the eighth, ſhall be re-aſſumed by our mighty Protector, his Catholike Majeſtie, to the recalling of thoſe which are exiled, and delivering thouſands of ſouls which ſuffer perſecution at home for the teſtimony of a good conſcience. Joyn your prayers with ours, imploring the bleſ<g ref="char:EOLhyphen"/>ſed Virgin, and all the hoſt of Angels and holy Martyrs, to intercede for us. Thus hoping to ſee Count <hi>Tilly,</hi> and Mar<g ref="char:EOLhyphen"/>queſſe <hi>Spinola</hi> here about July come twelve moneths, I reſt: In the meane time we pray for all the happy ſucceſſe in Ger<g ref="char:EOLhyphen"/>many and the Low-Countries.</p>
+            <closer>
+               <dateline>From the County of <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap>
+               </dateline> 
+               <signed>Your friend <hi>J. M.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
